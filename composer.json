@@ -1,0 +1,12 @@
+{
+    "name": "root/unittest",
+    "description": "try unittest",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload" : {
+	"psr-0": {"John":"src/"}
+    }
+}
