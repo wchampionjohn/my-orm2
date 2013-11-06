@@ -1,6 +1,6 @@
 {
-    "name": "john/unittest",
-    "description": "try unittest",
+    "name": "john/my-orm2",
+    "description": "my-orm",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
